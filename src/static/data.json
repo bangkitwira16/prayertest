@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "name": "Subuh",
+            "time": "04:28:00",
+            "icon": "Group 207@1X.png"
+        },
+        {
+            "name": "Terbit",
+            "time": "06:29:00",
+            "icon": "Group 208@1X.png"
+        },
+        {
+            "name": "Dzuhur",
+            "time": "11:38:00",
+            "icon": "Group 209@1X.png"
+        },
+        {
+            "name": "Asar",
+            "time": "14:51:10",
+            "icon": "Group 210@1X.png"
+        },{
+            "name": "Magrib",
+            "time": "17:28:00",
+            "icon": "Group 211@1X.png"
+        },{
+            "name": "Isya",
+            "time": "18:31:00",
+            "icon": "Path 205@1X.png"
+        }        
+    ]
+}
